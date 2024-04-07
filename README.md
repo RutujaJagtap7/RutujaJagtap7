@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 🌱 I’m currently learning **Modern Data Engineering** 
-- 💬 Ask me about **SQL, Python, C++**
+- 🌱 I’m currently learning **Data Science Technologies** 
+- 💬 Ask me about **SQL, Python, Java**
 - 💞️ I love building innovative projects.
-- ⚡ Work In Process --> Data Structures and Algorithms.
+- ⚡ Work In Process --> Data Engineering Skills.
  
 
 <h3 align="left">Connect with me:</h3>
